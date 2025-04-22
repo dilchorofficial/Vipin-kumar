@@ -1,5 +1,14 @@
+━━━━━━━━━━━━━━━━
+### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 ᴀᴍɪᴛᴀᴍᴜsɪᴄ x ᴅɪʟᴄʜᴏʀ🌷
+
+<!--
+**TeamAloneOp/AloneX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 <h2 align="center">
-    𝐄𝗌ρ𝗋ⱺ 𝐌ᥙsiᥴ ᴅɪʟᴄʜᴏʀ [ ɴᴏ ᴀᴅʂ ] 🕊
+    Amitamusic ᴅɪʟᴄʜᴏʀ [ ɴᴏ ᴀᴅʂ ] 🕊
 </h2>
 
 <h3 align="center">
