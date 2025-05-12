@@ -1,5 +1,5 @@
 <h2 align="center">
-    Anurag 𝐌ᥙsiᥴ [ ɴᴏ ᴀᴅʂ ] 🕊
+    jaan 𝐌ᥙsiᥴ [ ɴᴏ ᴀᴅʂ ] 🕊
 </h2>
 
 <h3 align="center">
