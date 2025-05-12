@@ -12,9 +12,7 @@
     Anurag RAJPUT OP
 </h4>
 
-</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=720&lines=⚠️ ANURAG KE TELEGRAM GROUP MEIN A JAO 🥵⚠️+...................">
 
 <h4 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
@@ -28,4 +26,4 @@
 <a href="https://t.me/All_super_music"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ]([https://t.me/All_super_music)) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ]([https://t.me/All_super_music](https://t.me/All_super_music))_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://t.me/All_super_music) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/All_super_music)_</b>
