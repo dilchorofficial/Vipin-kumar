@@ -1,8 +1,8 @@
-from EsproMusic.core.bot import Loy
-from EsproMusic.core.dir import dirr
-from EsproMusic.core.git import git
-from EsproMusic.core.userbot import Userbot
-from EsproMusic.misc import dbb, heroku
+from chorMusic.core.bot import Loy
+from chorMusic.core.dir import dirr
+from chorMusic.core.git import git
+from chorMusic.core.userbot import Userbot
+from chorMusic.misc import dbb, heroku
 
 from .logging import LOGGER
 
