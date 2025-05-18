@@ -36,7 +36,7 @@ async def init():
     await app.start()
     for all_module in ALL_MODULES:
         importlib.import_module("EsproMusic.plugins" + all_module)
-    LOGGER("chorMusic.plugins").info("Successfully Imported Modules...")
+    LOGGER("EsproMusic.plugins").info("Successfully Imported Modules...")
     await userbot.start()
     await Loy.start()
     try:
