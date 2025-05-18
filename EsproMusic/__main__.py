@@ -35,8 +35,8 @@ async def init():
         pass
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("EsproMusic.plugins" + all_module)
-    LOGGER("EsproMusic.plugins").info("Successfully Imported Modules...")
+        importlib.import_module("chormusic.plugins" + all_module)
+    LOGGER("chorMusic.plugins").info("Successfully Imported Modules...")
     await userbot.start()
     await Loy.start()
     try:
@@ -49,11 +49,11 @@ async def init():
     except:
         pass
     await Loy.decorators()
-    LOGGER("EsproMusic").info("EsproMusicBot Started Successfully \n\n Yaha App ko nahi aana hai aapni hf jo bhej sakte hai @Esprosupport ")
+    LOGGER("EsproMusic").info("chor music Started Successfully \n\n Yaha App ko nahi aana hai aapni hf jo bhej sakte hai @DCO_TEAM_1 ")
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("EsproMusic").info("Stopping Espro Music Bot...")
+    LOGGER("EsproMusic").info("Stopping chor Music Bot...")
 
 
 if __name__ == "__main__":
